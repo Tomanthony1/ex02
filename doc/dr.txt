@@ -1,0 +1,21 @@
+ex02
+
+tres bien
+
+---
+
+README.md?
+ex02
+SIO-2109
+Tom Anthony Olesen
+
+---
+
+utiliser .gitignore
+
+---
+
+voir https://www.dartlang.org/articles/style-guide/
+
+---
+
